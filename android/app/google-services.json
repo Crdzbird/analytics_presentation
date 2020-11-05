@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "247411802545",
+    "firebase_url": "https://fir-test-b1b93.firebaseio.com",
+    "project_id": "fir-test-b1b93",
+    "storage_bucket": "fir-test-b1b93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247411802545:android:8cf86bcfcab720c4",
+        "android_client_info": {
+          "package_name": "cf.awidiyadew.rxgalerryupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247411802545-ai3f01d08ca87ivl7e8m3u6mumslr7h7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1hfoopW0cz0_bRTrHvS7E72d20C1qwkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247411802545-ai3f01d08ca87ivl7e8m3u6mumslr7h7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247411802545:android:e5d042caccfb911d737d90",
+        "android_client_info": {
+          "package_name": "com.example.demo_analytic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247411802545-ai3f01d08ca87ivl7e8m3u6mumslr7h7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1hfoopW0cz0_bRTrHvS7E72d20C1qwkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247411802545-ai3f01d08ca87ivl7e8m3u6mumslr7h7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247411802545:android:3dafac13feeb0f1f",
+        "android_client_info": {
+          "package_name": "ni.devotion.com.loterillero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247411802545-ai3f01d08ca87ivl7e8m3u6mumslr7h7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1hfoopW0cz0_bRTrHvS7E72d20C1qwkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247411802545-ai3f01d08ca87ivl7e8m3u6mumslr7h7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
